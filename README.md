@@ -88,7 +88,7 @@ Enter name as `invento` and choose the appropriate collation (usually utf8_gener
 7\. Run the Development Server:
 Use Laravel's built-in development server to run your project locally. Start the server with the following command in terminal:
 
-    cd Invento
+    cd Blog_Site
     php artisan serve
 
 By default, it will run on `http://localhost:8000`.
